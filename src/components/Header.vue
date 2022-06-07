@@ -22,7 +22,7 @@ export default {
   name: "Header",
   data() {
     return {
-      siteTitle: "Vue Basics App",
+      siteTitle: "Paras Blog",
     };
   },
 };

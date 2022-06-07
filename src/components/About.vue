@@ -1,5 +1,13 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h3 class="abt">This is an about page</h3>
   </div>
 </template>
+
+<script></script>
+
+<style>
+.abt {
+  color: #ffffff
+}
+</style>
