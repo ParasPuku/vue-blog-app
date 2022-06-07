@@ -1,7 +1,7 @@
 <template>
   <div class="ddd-post">
     <div class="row mb-3">
-      <div class="col text-right">
+      <div class="col">
         <button class="btn btn-primary" v-on:click="formShow">
           Create New Post
         </button>
